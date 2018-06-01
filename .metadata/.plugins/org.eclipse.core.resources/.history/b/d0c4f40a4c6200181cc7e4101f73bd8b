@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.example.demo;
+
+/**
+ * @author 73996
+ *
+ */
+public interface SchedualServiceHi {
+
+}

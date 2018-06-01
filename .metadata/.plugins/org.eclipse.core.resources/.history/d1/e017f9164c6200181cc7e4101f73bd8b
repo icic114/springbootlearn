@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package com.example.demo;
+
+import org.springframework.cloud.netflix.feign.FeignClient;
+
+/**
+ * @author Jack
+ *
+ */
+@FeignClient(Value = 'Service-hi')
+public interface SchedualServiceHi {
+
+}

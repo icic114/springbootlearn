@@ -1,0 +1,6 @@
+package com.example.demo;
+
+@Component
+public class SchedualServiceHiHystric {
+
+}
